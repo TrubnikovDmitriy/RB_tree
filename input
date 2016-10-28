@@ -1,0 +1,279 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 119596  5816 ?        Ss   окт27   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    окт27   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    окт27   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    окт27   0:01 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    окт27   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    окт27   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S    окт27   0:00 [watchdog/0]
+root        11  0.0  0.0      0     0 ?        S    окт27   0:00 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    окт27   0:00 [migration/1]
+root        13  0.0  0.0      0     0 ?        S    окт27   0:00 [ksoftirqd/1]
+root        15  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/1:0H]
+root        16  0.0  0.0      0     0 ?        S    окт27   0:00 [watchdog/2]
+root        17  0.0  0.0      0     0 ?        S    окт27   0:00 [migration/2]
+root        18  0.0  0.0      0     0 ?        S    окт27   0:00 [ksoftirqd/2]
+root        20  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/2:0H]
+root        21  0.0  0.0      0     0 ?        S    окт27   0:00 [watchdog/3]
+root        22  0.0  0.0      0     0 ?        S    окт27   0:00 [migration/3]
+root        23  0.0  0.0      0     0 ?        S    окт27   0:00 [ksoftirqd/3]
+root        25  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/3:0H]
+root        26  0.0  0.0      0     0 ?        S    окт27   0:00 [kdevtmpfs]
+root        27  0.0  0.0      0     0 ?        S<   окт27   0:00 [netns]
+root        28  0.0  0.0      0     0 ?        S<   окт27   0:00 [perf]
+root        29  0.0  0.0      0     0 ?        S    окт27   0:00 [khungtaskd]
+root        30  0.0  0.0      0     0 ?        S<   окт27   0:00 [writeback]
+root        31  0.0  0.0      0     0 ?        SN   окт27   0:00 [ksmd]
+root        32  0.0  0.0      0     0 ?        SN   окт27   0:00 [khugepaged]
+root        33  0.0  0.0      0     0 ?        S<   окт27   0:00 [crypto]
+root        34  0.0  0.0      0     0 ?        S<   окт27   0:00 [kintegrityd]
+root        35  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        36  0.0  0.0      0     0 ?        S<   окт27   0:00 [kblockd]
+root        37  0.0  0.0      0     0 ?        S<   окт27   0:00 [ata_sff]
+root        38  0.0  0.0      0     0 ?        S<   окт27   0:00 [md]
+root        39  0.0  0.0      0     0 ?        S<   окт27   0:00 [devfreq_wq]
+root        43  0.0  0.0      0     0 ?        S    окт27   0:00 [kswapd0]
+root        44  0.0  0.0      0     0 ?        S<   окт27   0:00 [vmstat]
+root        45  0.0  0.0      0     0 ?        S    окт27   0:00 [fsnotify_mark]
+root        46  0.0  0.0      0     0 ?        S    окт27   0:00 [ecryptfs-kthrea]
+root        62  0.0  0.0      0     0 ?        S<   окт27   0:00 [kthrotld]
+root        64  0.0  0.0      0     0 ?        S<   окт27   0:00 [acpi_thermal_pm]
+root        65  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        66  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        68  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        69  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        70  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        71  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        72  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        73  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        74  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        75  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        76  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        77  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        78  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        79  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        80  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        81  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        82  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        83  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        84  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        85  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        86  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        87  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        88  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        89  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root        94  0.0  0.0      0     0 ?        S<   окт27   0:00 [ipv6_addrconf]
+root       107  0.0  0.0      0     0 ?        S<   окт27   0:00 [deferwq]
+root       108  0.0  0.0      0     0 ?        S<   окт27   0:00 [charger_manager]
+root       398  0.0  0.0      0     0 ?        S    окт27   0:00 [scsi_eh_0]
+root       399  0.0  0.0      0     0 ?        S<   окт27   0:00 [scsi_tmf_0]
+root       401  0.0  0.0      0     0 ?        S    окт27   0:00 [scsi_eh_1]
+root       407  0.0  0.0      0     0 ?        S<   окт27   0:00 [scsi_tmf_1]
+root       449  0.0  0.0      0     0 ?        S<   окт27   0:00 [kpsmoused]
+root       805  0.0  0.0      0     0 ?        S<   окт27   0:00 [bioset]
+root       885  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/2:1H]
+root       886  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/0:1H]
+root       888  0.0  0.0      0     0 ?        S    окт27   0:00 [jbd2/sda4-8]
+root       889  0.0  0.0      0     0 ?        S<   окт27   0:00 [ext4-rsv-conver]
+root       917  0.0  0.0      0     0 ?        S    окт27   0:00 [kauditd]
+root       937  0.0  0.0  43976  7592 ?        Ss   окт27   0:00 /lib/systemd/systemd-journald
+root       958  0.0  0.0  46176  5292 ?        Ss   окт27   0:01 /lib/systemd/systemd-udevd
+root      1338  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/3:1H]
+root      1609  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/1:1H]
+root      1754  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/u9:0]
+root      1758  0.0  0.0      0     0 ?        S<   окт27   0:00 [kworker/u9:2]
+root      2126  0.0  0.0      0     0 ?        S<   окт27   0:00 [cfg80211]
+root      2224  0.0  0.0      0     0 ?        S    окт27   0:06 [irq/150-SYNA239]
+root      2244  0.0  0.0      0     0 ?        S    окт27   0:00 [irq/279-iwlwifi]
+root      2321  0.0  0.0      0     0 ?        S<   окт27   0:00 [kvm-irqfd-clean]
+root      2559  0.0  0.1 298708  8768 ?        Ssl  окт27   0:00 /usr/lib/accountsservice/accounts-daemon
+root      2573  0.0  0.1 282936 10744 ?        Ssl  окт27   0:00 /usr/lib/snapd/snapd
+root      2575  0.0  0.0  32064  4516 ?        Ss   окт27   0:00 /usr/lib/bluetooth/bluetoothd
+root      2576  0.0  0.0  28652  3024 ?        Ss   окт27   0:00 /lib/systemd/systemd-logind
+whoopsie  2582  0.0  0.1 378556 13888 ?        Ssl  окт27   0:00 /usr/bin/whoopsie -f
+syslog    2584  0.0  0.0 256396  3364 ?        Ssl  окт27   0:00 /usr/sbin/rsyslogd -n
+root      2593  0.0  0.0   4400  1320 ?        Ss   окт27   0:02 /usr/sbin/acpid
+root      2602  0.0  0.1 173476  8884 ?        Ssl  окт27   0:01 /usr/sbin/thermald --no-daemon --dbus-enable
+message+  2605  0.0  0.0  44260  5072 ?        Ss   окт27   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root      2662  0.0  0.2 463584 17952 ?        Ssl  окт27   0:00 /usr/sbin/NetworkManager --no-daemon
+root      2671  0.0  0.0  36076  2988 ?        Ss   окт27   0:00 /usr/sbin/cron -f
+root      2673  0.0  0.1 337396 10608 ?        Ssl  окт27   0:00 /usr/sbin/ModemManager
+root      2674  0.0  0.1 274824  9472 ?        Ssl  окт27   0:00 /usr/sbin/cups-browsed
+root      2751  0.0  0.0 292192  8052 ?        SLsl окт27   0:00 /usr/sbin/lightdm
+root      2759  0.0  0.0  19472  2312 ?        Ss   окт27   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      2768  0.0  0.1 304860 11040 ?        Ssl  окт27   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      2781  0.1  1.1 435848 90084 tty7     Ssl+ окт27   1:24 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      2796  0.0  0.0  23008  1848 tty1     Ss+  окт27   0:00 /sbin/agetty --noclear tty1 linux
+root      2821  0.0  0.0  44116  7084 ?        Ss   окт27   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root      2883  0.0  0.0 230300  6388 ?        Sl   окт27   0:00 lightdm --session-child 12 19
+rtkit     2944  0.0  0.0 183544  2932 ?        SNsl окт27   0:00 /usr/lib/rtkit/rtkit-daemon
+root      2960  0.0  0.0      0     0 ?        S<   окт27   0:00 [krfcommd]
+dmitriy   2981  0.0  0.0  45380  5020 ?        Ss   окт27   0:00 /lib/systemd/systemd --user
+dmitriy   2982  0.0  0.0 145124  1872 ?        S    окт27   0:00 (sd-pam)
+dmitriy   2988  0.0  0.0 212688  6564 ?        Sl   окт27   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+dmitriy   2990  0.0  0.0  53868  5036 ?        Ss   окт27   0:00 /sbin/upstart --user
+dmitriy   3075  0.0  0.0  39992   276 ?        S    окт27   0:00 upstart-udev-bridge --daemon --user
+dmitriy   3077  0.0  0.0  43792  4116 ?        Ss   окт27   0:01 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-3D6uXGYiNi
+dmitriy   3089  0.0  0.1  93416  9088 ?        Ss   окт27   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+dmitriy   3121  0.0  0.1 366428  9644 ?        Ssl  окт27   0:50 /usr/bin/ibus-daemon --daemonize --xim
+dmitriy   3140  0.0  0.0  39900   348 ?        S    окт27   0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+dmitriy   3144  0.0  0.0  39900   360 ?        S    окт27   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+dmitriy   3147  0.0  0.0  48580  1904 ?        S    окт27   0:00 upstart-file-bridge --daemon --user
+dmitriy   3151  0.0  0.1 281828  8520 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfsd
+dmitriy   3156  0.0  0.1 419960  9216 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+dmitriy   3162  0.0  0.1 284900  8180 ?        Sl   окт27   0:00 /usr/lib/ibus/ibus-dconf
+dmitriy   3165  0.0  0.4 480216 34352 ?        Sl   окт27   0:06 /usr/lib/ibus/ibus-ui-gtk3
+dmitriy   3169  0.0  0.2 430652 22264 ?        Sl   окт27   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+dmitriy   3174  0.0  0.0 173940   780 ?        Ss   окт27   0:00 gpg-agent --homedir /home/dmitriy/.gnupg --use-standard-socket --daemon
+dmitriy   3181  0.0  0.0 209036  7488 ?        Sl   окт27   0:16 /usr/lib/ibus/ibus-engine-simple
+dmitriy   3190  0.0  0.3 526648 27672 ?        Ssl  окт27   0:02 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+dmitriy   3210  0.0  0.4 654544 37480 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/hud/hud-service
+dmitriy   3212  0.0  0.4 998436 34768 ?        Ssl  окт27   0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+dmitriy   3220  0.0  0.1 353664 10064 ?        Ssl  окт27   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+dmitriy   3221  0.0  0.1 700700 14752 ?        Ssl  окт27   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+dmitriy   3224  0.0  0.4 568084 33356 ?        Ssl  окт27   0:02 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+dmitriy   3229  0.0  0.0  42900  3860 ?        S    окт27   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+dmitriy   3243  0.0  0.0 206860  5340 ?        Sl   окт27   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+dmitriy   3250  0.1  1.3 1225136 109284 ?      Ssl  окт27   1:11 compiz
+root      3251  0.0  0.1 354792 10592 ?        Ssl  окт27   0:00 /usr/lib/upower/upowerd
+dmitriy   3272  0.0  0.1 441352  8572 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+dmitriy   3276  0.0  0.0 356472  7868 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+dmitriy   3278  0.0  0.1 369872 12972 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+dmitriy   3282  0.0  0.2 1247660 19984 ?       Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+dmitriy   3287  0.0  0.3 643804 29376 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+dmitriy   3288  0.0  0.1 757032 12348 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+dmitriy   3290  0.0  0.3 550256 24500 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+dmitriy   3297  0.0  0.1 709276 10676 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+dmitriy   3300  0.0  0.1 469672 12376 ?        Ssl  окт27   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+dmitriy   3333  0.0  0.1 442408 11960 ?        S<l  окт27   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+dmitriy   3339  0.0  0.3 1179968 25844 ?       Sl   окт27   0:00 /usr/lib/evolution/evolution-source-registry
+dmitriy   3343  0.0  0.0 178664  4656 ?        Sl   окт27   0:00 /usr/lib/dconf/dconf-service
+colord    3357  0.0  0.1 321004 12780 ?        Ssl  окт27   0:00 /usr/lib/colord/colord
+dmitriy   3380  0.0  0.2 432232 20284 ?        Sl   окт27   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+dmitriy   3381  0.0  0.4 821792 34832 ?        Sl   окт27   0:00 nm-applet
+dmitriy   3384  0.0  0.2 577460 22524 ?        Sl   окт27   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+dmitriy   3386  0.0  1.2 1321540 98260 ?       Sl   окт27   0:03 /usr/bin/gnome-software --gapplication-service
+dmitriy   3391  0.0  0.6 858936 49012 ?        Sl   окт27   0:01 nautilus -n
+dmitriy   3406  0.0  0.1 303912 12212 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      3414  0.0  0.1 383248 10888 ?        Ssl  окт27   0:00 /usr/lib/udisks2/udisksd --no-debug
+dmitriy   3426  0.0  0.0 266792  4576 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+dmitriy   3431  0.0  0.0 278988  7312 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+dmitriy   3441  0.0  0.0 264832  4320 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+dmitriy   3446  0.0  0.1 410908  9036 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+root      3454  0.0  0.4 635452 33760 ?        Sl   окт27   0:00 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+dmitriy   3461  0.0  0.7 869924 62252 ?        Sl   окт27   0:00 /usr/lib/evolution/evolution-calendar-factory
+dmitriy   3475  0.0  0.1 371136 10628 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+dmitriy   3485  0.0  0.6 895528 53400 ?        Sl   окт27   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx3461x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/3461/2
+dmitriy   3495  0.0  0.2 704884 21860 ?        Sl   окт27   0:00 /usr/lib/evolution/evolution-addressbook-factory
+dmitriy   3497  0.0  0.6 1076512 50824 ?       Sl   окт27   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx3461x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/3461/3
+dmitriy   3518  0.0  0.2 780384 20776 ?        Sl   окт27   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx3495x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/3495/2
+dmitriy   3572  0.0  0.2 580976 17488 ?        Sl   окт27   0:00 zeitgeist-datahub
+dmitriy   3579  0.0  0.0   4508   716 ?        S    окт27   0:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+dmitriy   3586  0.0  0.1 423296  8876 ?        Sl   окт27   0:00 /usr/bin/zeitgeist-daemon
+dmitriy   3593  0.0  0.1 321444 15340 ?        Sl   окт27   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+dmitriy   3652  0.0  0.3 526980 26584 ?        Sl   окт27   0:00 update-notifier
+dmitriy   3678  0.0  0.1 448768 11184 ?        Sl   окт27   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+dmitriy   3726  0.0  0.4 666268 39876 ?        Sl   окт27   1:02 /usr/lib/gnome-terminal/gnome-terminal-server
+dmitriy   3733  0.0  0.0  29608  5216 pts/4    Ss   окт27   0:00 bash
+root      3770  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/0:0]
+root      4058  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/1:0]
+root      4544  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:1]
+dmitriy   4573  0.0  0.1 445284  8836 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+dmitriy   4600  0.0  0.0 369020  7004 ?        Sl   окт27   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.4 /org/gtk/gvfs/exec_spaw/5
+root      4758  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/0:1]
+root      4839  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/3:2]
+root      4846  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/1:2]
+root      4850  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/2:0]
+root      4872  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:0]
+root      4883  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/2:2]
+root      4884  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/3:0]
+root      4889  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:2]
+dmitriy   4910  0.0  0.4 491340 32448 ?        Sl   окт27   0:00 /usr/lib/x86_64-linux-gnu/notify-osd
+root      4920  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:3]
+root      4921  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:4]
+root      4922  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:5]
+root      4923  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:6]
+root      4924  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:7]
+root      4925  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:8]
+root      4926  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:9]
+root      4927  0.0  0.0      0     0 ?        S    окт27   0:00 [kworker/u8:10]
+root      4928  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/0:2]
+root      4929  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:11]
+root      4930  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:12]
+root      4931  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:13]
+root      4932  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:14]
+root      4933  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:15]
+root      4934  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:16]
+root      4935  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:17]
+root      4936  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:18]
+root      4937  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:19]
+root      4938  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:20]
+root      4939  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:21]
+root      4940  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:22]
+root      4941  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:23]
+root      4942  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:24]
+root      4943  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:25]
+root      4944  0.1  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:26]
+root      4945  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:27]
+root      4946  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:28]
+root      4947  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:29]
+root      4948  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:30]
+root      4949  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:31]
+root      4950  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:32]
+root      4951  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:33]
+root      4952  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:34]
+root      4953  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:35]
+root      4954  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:36]
+root      4955  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:37]
+root      4956  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:38]
+root      4957  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:39]
+root      4958  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:40]
+root      4959  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:41]
+root      4960  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:42]
+root      4961  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:43]
+root      4962  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:44]
+root      4963  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:45]
+root      4964  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:46]
+root      4965  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:47]
+root      4966  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:48]
+root      4967  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:49]
+root      4968  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:50]
+root      4969  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:51]
+root      4970  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:52]
+root      4971  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:53]
+root      4972  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:54]
+root      4973  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:55]
+root      4974  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:56]
+root      4975  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:57]
+root      4976  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:58]
+root      4977  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:59]
+root      4978  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:60]
+root      4979  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/u8:61]
+root      4980  0.0  0.0      0     0 ?        S    14:25   0:00 [irq/278-mei_me]
+root      4981  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/0:3]
+root      4982  0.0  0.0      0     0 ?        S<   14:25   0:00 [hci0]
+root      4983  0.0  0.0      0     0 ?        S<   14:25   0:00 [hci0]
+root      4984  0.0  0.0      0     0 ?        S<   14:25   0:00 [kworker/u9:1]
+root      4985  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/2:1]
+root      5052  0.0  0.0      0     0 ?        S    14:25   0:00 [kworker/0:4]
+root      5118  0.0  0.0      0     0 ?        S    14:26   0:00 [kworker/3:1]
+dmitriy   5139  8.2  1.2 563144 98892 ?        Rl   14:26   0:01 /usr/lib/firefox/firefox
+root      5195  0.0  0.0  16124  3660 ?        S    14:26   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlp2s0.pid -lf /var/lib/NetworkManager/dhclient-e5951ba4-2882-4757-9076-028e110f1827-wlp2s0.lease -cf /var/lib/NetworkManager/dhclient-wlp2s0.conf wlp2s0
+dmitriy   5202  1.2  0.0 141196  5768 ?        Sl   14:26   0:00 /usr/lib/libreoffice/program/oosplash --writer
+dmitriy   5219  1.0  0.0 141196  5696 ?        Sl   14:26   0:00 /usr/lib/libreoffice/program/oosplash --calc
+dmitriy   5239  0.6  0.0 141196  5764 ?        Sl   14:26   0:00 /usr/lib/libreoffice/program/oosplash --impress
+nobody    5259  0.1  0.0  59976  4200 ?        S    14:26   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      5298  0.1  0.0 205732  7240 ?        Ssl  14:26   0:00 /usr/lib/NetworkManager/nm-dispatcher
+root      5364  0.0  0.0      0     0 ?        S    14:26   0:00 [kworker/1:1]
+avahi     5365  0.2  0.0  44912  3644 ?        Ss   14:26   0:00 avahi-daemon: running [Dmitriy-Dell.local]
+avahi     5388  0.0  0.0  44788   348 ?        S    14:26   0:00 avahi-daemon: chroot helper
+root      5457 19.2  0.5 271976 42272 ?        RNl  14:26   0:00 /usr/bin/python3 /usr/sbin/aptd
+dmitriy   5467 13.3  0.6 525204 52660 ?        Sl   14:26   0:00 /usr/lib/libreoffice/program/soffice.bin --impress --splash-pipe=5
+dmitriy   5468 14.0  0.6 525204 52416 ?        Sl   14:26   0:00 /usr/lib/libreoffice/program/soffice.bin --writer --splash-pipe=5
+dmitriy   5473 25.6  1.1 1073304 91184 ?       Dl   14:26   0:00 /usr/lib/libreoffice/program/soffice.bin --calc --splash-pipe=5
+dmitriy   5475  0.0  0.0      0     0 ?        Z    14:26   0:00 [soffice.bin] <defunct>
+dmitriy   5476  0.3  0.0      0     0 ?        Z    14:26   0:00 [soffice.bin] <defunct>
+dmitriy   5504  0.0  0.0  68668  5784 ?        S    14:26   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+dmitriy   5506  0.0  0.0  44448  3344 pts/4    R+   14:26   0:00 ps aux
+dmitriy   5507  0.0  0.0  29608  1780 pts/4    D+   14:26   0:00 bash
